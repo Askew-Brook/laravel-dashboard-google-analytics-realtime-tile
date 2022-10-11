@@ -1,5 +1,5 @@
 {
-    "name": "ingoldsby/laravel-dashboard-google-analytics-realtime-tile",
+    "name": "askewbrook/laravel-dashboard-google-analytics-realtime-tile",
     "description": "A Google Analytics realtime tile for Laravel Dashboard",
     "keywords": [
         "ingoldsby",
@@ -12,12 +12,17 @@
             "name": "Ingoldsby",
             "email": "ingoldsby@ingoldsby.info",
             "role": "Developer"
+        },
+        {
+            "name": "Jack Spriggs",
+            "email": "jack@askewbrook.com",
+            "role": "Developer"
         }
     ],
     "require": {
         "google/apiclient": "^2.0",
-        "php": "^7.4",
-        "spatie/laravel-dashboard": "^1.0"
+        "php": "^8.0",
+        "spatie/laravel-dashboard": "^2.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^9.0"
